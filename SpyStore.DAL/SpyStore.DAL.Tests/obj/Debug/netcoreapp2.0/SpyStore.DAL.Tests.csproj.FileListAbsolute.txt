@@ -1,0 +1,36 @@
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.deps.json
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.runtimeconfig.json
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.runtimeconfig.dev.json
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.Models.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.Models.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.AssemblyInfoInputs.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.AssemblyInfo.cs
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.pdb
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.deps.json
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.runtimeconfig.json
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.runtimeconfig.dev.json
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.Tests.pdb
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.Models.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.DAL.pdb
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\bin\Debug\netcoreapp2.0\SpyStore.Models.pdb
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.csprojResolveAssemblyReference.cache
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.csproj.CoreCompileInputs.cache
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.AssemblyInfoInputs.cache
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.AssemblyInfo.cs
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.DAL.Tests\obj\Debug\netcoreapp2.0\SpyStore.DAL.Tests.pdb

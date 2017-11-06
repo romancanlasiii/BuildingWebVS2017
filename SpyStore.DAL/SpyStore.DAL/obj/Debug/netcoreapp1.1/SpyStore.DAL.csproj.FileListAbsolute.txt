@@ -1,0 +1,13 @@
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.deps.json
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.json
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.dev.json
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfoInputs.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfo.cs
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.pdb

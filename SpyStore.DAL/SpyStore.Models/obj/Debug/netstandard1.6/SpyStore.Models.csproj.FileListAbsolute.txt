@@ -1,0 +1,9 @@
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.deps.json
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.AssemblyInfoInputs.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.AssemblyInfo.cs
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.csprojResolveAssemblyReference.cache

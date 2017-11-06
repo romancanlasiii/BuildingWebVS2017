@@ -1,0 +1,18 @@
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard2.0\SpyStore.Models.deps.json
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard2.0\SpyStore.Models.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard2.0\SpyStore.Models.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.AssemblyInfoInputs.cache
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.AssemblyInfo.cs
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.dll
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.pdb
+C:\Users\Ron\documents\visual studio 2017\Projects\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.csprojResolveAssemblyReference.cache
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard2.0\SpyStore.Models.deps.json
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard2.0\SpyStore.Models.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard2.0\SpyStore.Models.pdb
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.csprojResolveAssemblyReference.cache
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.csproj.CoreCompileInputs.cache
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.AssemblyInfoInputs.cache
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.AssemblyInfo.cs
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.dll
+E:\Repos\BuildingWebVS2017\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard2.0\SpyStore.Models.pdb

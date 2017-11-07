@@ -19,7 +19,10 @@ namespace SpyStore.Models.Entities
         [Display(Name = "Date Shipped")]
         public DateTime ShipDate { get; set; }
 
-        [ForeignKey("CustomerId")]
+		[Display(Name = "Total")]
+		public decimal? OrderTotal { get; set; }
+
+		[ForeignKey("CustomerId")]
         public Customer Customer { get; set; }
 
         [InverseProperty("Order")]
